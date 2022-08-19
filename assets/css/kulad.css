@@ -83,15 +83,15 @@ a.filled-button:hover {
 }
 
 .products-heading {
-	background-image: url(../images/products-heading.jpg);
+	background-image: url(../images/kuladback.jpeg);
 }
 
 .about-heading {
-	background-image: url(../images/about-heading.jpg);
+	background-image: url(../images/kuladback.jpeg);
 }
 
 .contact-heading {
-	background-image: url(../images/contact-heading.jpg);
+	background-image: url(../images/kuladback.jpeg);
 }
 
 .page-heading {
@@ -737,7 +737,7 @@ footer .inner-content p a {
 /* Services */
 
 .services {
-	background-image: url(../images/services-bg.jpg);
+	background-image: url(../images/kuladback.jpeg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
